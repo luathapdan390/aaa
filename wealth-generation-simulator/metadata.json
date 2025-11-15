@@ -1,0 +1,5 @@
+{
+  "name": "Wealth Generation Simulator",
+  "description": "A conceptual application to visualize wealth generation over time based on a 120-minute work session, using compound interest calculations for various life aspects. It generates a shareable report image of the projected wealth.",
+  "requestFramePermissions": []
+}
